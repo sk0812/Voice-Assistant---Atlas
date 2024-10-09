@@ -1,0 +1,10 @@
+pyttsx3
+newsapi
+SpeechRecognition
+tinyDB
+winshell
+imdbpy
+geocoder
+PyDictionary
+newsapi-python
+wolframalpha

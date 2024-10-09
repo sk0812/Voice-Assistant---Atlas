@@ -1,0 +1,6 @@
+what_can_you_do = ["How is the weather next week", "make a note", "search youtube for cricket highlights", "what is the definition of isolation", "send an email to mum", 
+                   "shut down the computer", "open adobe photoshop", "how many files are there in me recycle bin", "empty my recycle bin", "search google for coronavirus cases",
+                   "open the downloads folder", "tell me a joke", "give me a random number between 1 and 10", "what are some synonyms for big", "give a few antonyms for loud",
+                   "roll a dice", "what is the time", "how is the weather on the weekend", "search amazon for light bulbs", "open reddit", "what homework has been set", 
+                   "add headphones to my wishlist", "how many items are there in my wishlist", "tell me some news", "tell me some news about sports", "what are the top headlines",
+                   "open word", "how do you calculate the area of trapezium", "how kilograms is 5 stone", "what is speed of a car if it travelled 240 km in 82 minutes"]
